@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Env variables
+.env
+process.json
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Vagrant etc
+.vagrant
+.idea
